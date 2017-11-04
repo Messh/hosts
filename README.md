@@ -1,0 +1,2 @@
+# hosts
+My blocked hosts
